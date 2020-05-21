@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92464" started-at="2020-05-19T13:17:27Z" finished-at="2020-05-19T13:18:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92464" started-at="2020-05-19T13:17:27Z" finished-at="2020-05-19T13:18:59Z">
+      <class name="Frames.verifyloginpage">
+        <test-method status="PASS" signature="enterinvalidcreds()[pri:0, instance:Frames.verifyloginpage@769f71a9]" name="enterinvalidcreds" duration-ms="92417" started-at="2020-05-19T09:17:27Z" finished-at="2020-05-19T09:18:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterinvalidcreds -->
+      </class> <!-- Frames.verifyloginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
