@@ -25,6 +25,7 @@ import com.google.common.io.Files;
 public class alertsinSelenium {
 
 	public static void main(String[] args) throws InterruptedException, IOException {
+		System.out.println("this is initial step to launch the browser...");
 		System.setProperty("webdriver.chrome.driver",System.getProperty("user.dir")+"\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		
